@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700|Roboto:300,400,500,700,900&amp;display=swap");
+
+body{
+    background-color: #FEFBF3;
+    font-family: "Poppins", sans-serif;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #79B4B7;
+    border-radius: 25px;
+    width: 50vh;
+    padding: 2%;
+    margin: auto;
+    margin-top: 25vh;
+    padding-bottom: 5vh;
+}
+
+button{
+    border-radius: 25px;
+    height: 5vh;
+    width: 20vh;
+    margin-top: 5vh;
+    background-color: #F8F0DF;    
+}
+
+input{
+    margin-top: 3vh;
+    border-radius: 25px;
+    height: 5vh;
+    width: 30vh;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5vh;
+    color:#323d3f;
+}
+
+button:hover{
+    background-color: #6e6b6b;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+.ffff{
+    font-family: "Poppins", sans-serif;
+}
+
+.heading{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: xx-large;
+    padding: 1.5vh;
+    margin-top: 2vh;
+}
+
+.tangent{
+    margin-top: 5vh;
+    font-weight: 600;
+    font-size: x-large;
+}
